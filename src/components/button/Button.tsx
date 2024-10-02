@@ -26,9 +26,3 @@ const CustomButton = ({
 };
 
 export default CustomButton;
-
-CustomButton({
-  content: "Hello",
-  onclick() {},
-  children: <div></div>,
-});

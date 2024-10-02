@@ -11,11 +11,3 @@ root.render(
     <App />
   </React.StrictMode>
 );
-
-
-
-type User = { name: string; phone: string };
-
-const user: User = {};
-
-const users: (string | number)[] = ["Hello", "HI", 43];
