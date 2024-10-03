@@ -2,6 +2,7 @@ import { Avatar, Box, Button, Container, Typography } from "@mui/material";
 import React from "react";
 
 import Logo from "./assets/logo.png";
+import Logo2 from "./assets/logo2.png";
 import SearchIcon from "@mui/icons-material/Search";
 
 type Props = {};
